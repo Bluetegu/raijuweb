@@ -126,14 +126,14 @@ export default {
   display: block;
   font-weight: 300;
   font-size: 100px;
-  color: #35495e;
+  color: lightblue;
   letter-spacing: 1px;
 }
 
 .subtitle {
   font-weight: 300;
   font-size: 42px;
-  color: #526488;
+  color: lightblue;
   word-spacing: 5px;
   padding-bottom: 15px;
   padding-top: 15px;
@@ -143,7 +143,7 @@ export default {
   padding-top: 140px;
   font-size: 24px;
   font-weight: 300;
-  color: #526488;
+  color: lightblue;
 }
 
 .links {
