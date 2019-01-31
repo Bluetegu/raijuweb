@@ -24,10 +24,6 @@ html {
   margin: 0;
 }
 
-body {
-  background-image: url(/images/night.jpg);
-}
-
 .button--grey {
   display: inline-block;
   border-radius: 4px;
