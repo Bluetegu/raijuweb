@@ -44,7 +44,7 @@ export default {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url(/images/night.jpg);
+  background: url(/images/seaside.jpg);
   background-position: center center;
   background-origin: content-box;
   background-size: cover;
@@ -58,7 +58,7 @@ export default {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url(/images/night.jpg);
+  background: url(/images/seaside.jpg);
   background-position: center center;
   background-origin: content-box;
   background-size: cover;
@@ -140,7 +140,7 @@ export default {
 }
 
 .contact {
-  padding-top: 30px;
+  padding-top: 140px;
   font-size: 24px;
   font-weight: 300;
   color: #526488;
